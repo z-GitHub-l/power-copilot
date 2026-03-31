@@ -1,0 +1,1 @@
+"""power-copilot backend package."""
