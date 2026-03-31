@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+chromadb
+pydantic-settings
+python-dotenv
+pydantic
+pymupdf
+python-docx
+python-multipart
+requests
