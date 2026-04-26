@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pydantic-settings
+python-dotenv
+pydantic
+pymupdf
+python-docx
+python-multipart
+requests
+# Optional: install chromadb for the original persistent vector DB backend.
